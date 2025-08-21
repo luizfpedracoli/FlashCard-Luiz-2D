@@ -9,9 +9,9 @@ criaCartao(
 'o pokemon charizard é do tipo fogo e voador.'
 )
 criaCartao(
-'Programação',
-'O que é JavaScript?',
-'O JavaScript é uma linguagem de programação.'
+'one piece',
+'qual é a fruta do Doflamingo?',
+'ele é o usuario da ito ito no mi a fruta da corda.'
 )
 criaCartao(
 'Programação',
