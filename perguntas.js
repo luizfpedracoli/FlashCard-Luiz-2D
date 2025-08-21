@@ -4,9 +4,9 @@ criaCartao(
 'One piece tem  1122 episodios atualmente'
 )
 criaCartao(
-'Programação',
-'O que é CSS?',
-'O CSS é uma linguagem de estilização.'
+'pokemon',
+'qual o tipo do charizard?',
+'o pokemon charizard é do tipo fogo e voador.'
 )
 criaCartao(
 'Programação',
