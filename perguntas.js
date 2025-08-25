@@ -24,9 +24,9 @@ criaCartao(
 'As espadas que rononoa Zoro usa para iniciar sua jornada são a Yubashiri, Sandai Kintetsu e a Wado Ichimonji',
 )
 criaCartao(
-'Programação',
-'O que é Full Stack?',
+'pokemon',
+'qual foi o unico treinador pokemon que recusou seu titulo de campeão',
 
-'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.'
+'o treinador N foi o unico que recusou seu titulo de campeão
 
 )
