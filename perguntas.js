@@ -14,14 +14,14 @@ criaCartao(
 'ele é o usuario da ito ito no mi a fruta da corda.'
 )
 criaCartao(
-'Programação',
-'O que é Front-end?',
-' O Front-end compreende a parte visual de sites e aplicações.'
+'Pokemon',
+'quantos episodios tem no anime de pokemon?',
+' pokemon tem 1269 episodios.'
 )
 criaCartao(
-'Programação',
-'O que é Back-end?',
-'O Back-end compreende tudo aquilo que tem por trás de uma aplicação.'
+'One Piece',
+'qual o nome das primeiras espadas do Zoro',
+'As espadas que rononoa Zoro usa para iniciar sua jornada são a Yubashiri, Sandai Kintetsu e a Wado Ichimonji',
 )
 criaCartao(
 'Programação',
