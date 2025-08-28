@@ -26,7 +26,5 @@ criaCartao(
 criaCartao(
 'pokemon',
 'qual foi o unico treinador pokemon que recusou seu titulo de campeão',
-
-'o treinador N foi o unico que recusou seu titulo de campeão
-
+'o treinador N foi o unico que recusou seu titulo de campeão',
 )
